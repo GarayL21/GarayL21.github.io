@@ -1,0 +1,14 @@
+
+        .center {
+          display: block;
+          margin: auto;
+          width: 50%;
+          height: 50%;
+        }
+
+        body {
+          background-image: url('forest.jpg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
